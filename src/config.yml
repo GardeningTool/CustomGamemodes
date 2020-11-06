@@ -1,0 +1,17 @@
+alert-updates: true
+Gamemodes:
+  "Hacker":
+    max-health: 60
+    fly-speed: 8
+    walk-speed: 5
+    invulnerable-to-fall-damage: true
+    invulnerable-to-attack-damage: false
+    allow-fly: true
+Messages:
+  no-permission: "&7(&c&l!&7) You don't have permission to do this!"
+  syntax-message: "&7(&c&l!&7) Invalid syntax! Try /customgamemode (gamemode) [player]"
+  no-gamemode-permission-message: "&7(&c&l!&7) You don't have permission to use this gamemode!"
+  invalid-gamemode-message: "&7(&c&l!&7) Invalid gamemode!"
+  not-a-player: "&7(&c&l!&7) You must be a player to excecute this command!"
+  updated-gamemode-message: "&7(&c&l!&7) Your gamemode has been updated to &a%gamemode%&7!"
+  updated-player-message: "&7(&c&l!&7) Successfully updated &a%player%&7's gamemode to &a%gamemode%&7!"

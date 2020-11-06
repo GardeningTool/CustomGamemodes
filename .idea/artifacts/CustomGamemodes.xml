@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CustomGamemodes">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomGamemodes</output-path>
+    <root id="archive" name="CustomGamemodes.jar">
+      <element id="module-output" name="CustomGamemodes" />
+    </root>
+  </artifact>
+</component>

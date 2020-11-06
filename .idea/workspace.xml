@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc1190a1-f9bf-4e26-98fa-b4c46076f660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CustomGamemodes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spigot_api_1_8_8_R0_1_SNAPSHOT_shaded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomGamemodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/CustomGamemodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/api/CustomGamemodesAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/command/CustomGamemodeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/event/CustomGamemodeDisabledEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/event/CustomGamemodeEnabledEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/gamemode/CustomGamemode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/listener/PlayerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/listener/UpdateListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/gardeningtool/customgamemode/settings/SettingsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jshaYWpM4otPVZTU4Oz6OVbaj8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Code/Libs/lombok.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.14941406" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\GitHub\CustomGamemodes\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc1190a1-f9bf-4e26-98fa-b4c46076f660" name="Default Changelist" comment="" />
+      <created>1604598770219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604598770219</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="274" key="#Project_Structure" timestamp="1604599059624">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="772" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1604599059624" />
+    <state x="1041" y="335" key="#com.intellij.ide.util.MemberChooser" timestamp="1604603829911">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1041" y="335" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1604603829911" />
+    <state x="899" y="378" key="FileChooserDialogImpl" timestamp="1604598921268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="899" y="378" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604598921268" />
+    <state x="632" y="169" key="SettingsEditor" timestamp="1604599084458">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="632" y="169" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1604599084458" />
+    <state x="550" y="205" key="new project wizard" timestamp="1604598799357">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="550" y="205" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1604598799357" />
+  </component>
+</project>

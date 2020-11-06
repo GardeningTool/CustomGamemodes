@@ -1,0 +1,7 @@
+main: dev.gardeningtool.customgamemode.CustomGamemodes
+name: CustomGamemodes
+version: 1.0
+commands:
+  customgamemode:
+    description: Set custom gamemodes
+    aliases: [cgm, custommode]
