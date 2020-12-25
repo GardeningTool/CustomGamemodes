@@ -39,7 +39,7 @@ public class CustomGamemodesAPI {
     }
 
     public static CustomGamemode getCustomGamemode(String name) {
-        return settingsManager.getCustomGamemodes().values().stream().filter(gamemode -> gamemode.getName().equalsIgnoreCase(name)).collect(Collectors.toList()).get(0);
+        return settingsManager.getCustomGamemodes().values().stream().filter(gamemode -> gamemode.getName().equalsIgnoreCase(name)).findFirst().orElse(null);
     }
 
     public static void setCustomGamemode(Player player, CustomGamemode customGamemode) {
